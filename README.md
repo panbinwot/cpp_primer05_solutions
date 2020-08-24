@@ -1,2 +1,7 @@
 # cpp_primer05_solutions
-Personal Answer to Practice Questions from C++ Primer Fifth Edition
+Personal Solutions to Practice Questions in C++ Primer Fifth Edition
+
+## Index
+## Chapter 3
+
+
